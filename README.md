@@ -1,4 +1,4 @@
-## 😄 Here I am, Daira Portillo 👋
+## 😄 Hi, I'm Daira 👋
 
 ## Connect with me:
 <div style="display: inline_block">
