@@ -7,7 +7,7 @@
 </div>
   
 ##
-![Documento sin título_page-0001](https://user-images.githubusercontent.com/103596199/179893359-f129adba-95fc-43e8-a81d-ab8d20b3cd1f.jpg)
+![Documento sin título (1)_page-0001](https://user-images.githubusercontent.com/103596199/179893798-0c746e35-f05b-445f-8088-b763f6486568.jpg)
 
 
 
