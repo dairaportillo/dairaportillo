@@ -1,4 +1,4 @@
-## 😄 Hi, I'm Daira 👋
+## ❀【Hi】❀, I'm Daira ฅ^•ﻌ•^ฅ
 
 ## Connect with me:
 <div style="display: inline_block">
