@@ -38,7 +38,7 @@
 </div>
 <div>
     <h2 align="left" style="font-size: 24px">                  ˗ˏˋ  𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 ˎˊ˗ </h2>
-        <img src="https://i.pinimg.com/564x/e9/ad/be/e9adbe81488731c5ec139ff0a2aee5ce.jpg" width="200" height="180" align="left">
+        <img src="https://64.media.tumblr.com/e023d7af3bcb1f0410736827db9bf148/1b57660de5df298b-c6/s400x600/59ceb08a867ce4027581d7219ed8d2eb69387bd3.gifv" width="200" height="180" align="left">
 </div>
 
 <div style="display: inline_block">
