@@ -1,3 +1,7 @@
+ <div align="center">
+        <img src="https://64.media.tumblr.com/4891270d8bcfecc9a85cee24b4b45f10/be3a3b6c72f4c730-04/s1280x1920/512f2e9830c2e1ba362cf865e0ceaba2663a9353.jpg">
+    </div>
+
 ## ❀【Hi】❀, I'm Daira ฅ^•ﻌ•^ฅ
 
 ## Connect with me:
