@@ -13,9 +13,10 @@
   <div align="center">
     <img src="https://64.media.tumblr.com/2e5045a89d1431e1884720920e994b73/ced6958074850cba-36/s540x810/674daacfc831442f3d1420fe3a5e7414ba933f7a.gifv">
 </div>
-
+<div>
     <h2 align="center">  ｡ﾟ₊˚ 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦 ˚‧⁺.*</h2>
     <img align="right" src="https://64.media.tumblr.com/48f053ae79a9f1faba32d93124fa8936/431151b70bfea9f5-a7/s500x750/ab3e4615f592fabd954bc91a00c8607db327c03f.gifv" width="200" height="200" align="right">
+  <ul>
     <li>
         <b>Name:</b> Daira.</li>
     <li>
@@ -30,6 +31,7 @@
     <li>
         <b>Hobbys:</b> Tech Stuff, Paint, Draw.
     </li>
+   </ul>
     <br>
     <p>     Have a nice day ପ(๑•ᴗ•๑)ଓ <br>
     </p>
