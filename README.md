@@ -31,6 +31,12 @@
     <li>
         <b>Hobbys:</b> Tech Stuff, Paint, Draw.
     </li>
+    <li>
+         <b>Fun fact:</b> everyday  I always listen to Taylor Swift
+     
+    </li>
+    
+   
    </ul>
     <br>
     <p>     Have a nice day ପ(๑•ᴗ•๑)ଓ <br>
