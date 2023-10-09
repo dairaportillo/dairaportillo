@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 🌈, I'm Daira</h1>
 
-<h3 align="center">A passionate web developer from Argentina</h3>
-
+<h3 align="center">A passionate web developer from Argentina</h3>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
 
@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/daira-portillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daira-portillo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/daira-portillo"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
