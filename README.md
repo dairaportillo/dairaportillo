@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi everyone, I'm Daira 🌈</h1>
 
-<h3 align="center">A passionate web developer from Argentina</h3> 
+<h3 align="center">A curious web developer from Argentina</h3> 
 <h3 align="left">A little more about me... </h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
