@@ -1,5 +1,5 @@
 
-![portada](https://github.com/dairaportillo/dairaportillo/assets/103596199/1ddbb7ba-711d-47b2-85f1-816571894d79)
+
 
 <h1 align="center">Hi everyone, I'm Daira 🌈</h1>
 
